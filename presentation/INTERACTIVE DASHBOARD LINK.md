@@ -1,6 +1,6 @@
 # Interactive Dashboard
 
-This folder contains the interactive Tableau dashboard for the MTSS-School-Intervention-Dashboard Project.
+This file contains the interactive Tableau dashboard for the MTSS-School-Intervention-Dashboard Project.
 Project Span: August 2025 - February 2026
 
 **Dashboard Link (Tableau Public):**  
